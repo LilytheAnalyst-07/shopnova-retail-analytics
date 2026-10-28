@@ -33,8 +33,7 @@ The dashboard includes:
 ## Dashboard Preview
 
 The dashboard provides a consolidated view of retail performance through interactive visualizations and KPI cards.
-
-<!-- The dashboard screenshot will be added here. -->
+![ShopNova Retail Analytics Dashboard](shopnova-overview.png)
 
 ## Key Business Questions
 
