@@ -23,7 +23,9 @@ The project transforms e-commerce data into an interactive dashboard that helps 
 
 ## Dashboard Features
 
-The dashboard includes:![ShopNova Dashboard Overview](ShopNova_Overview.png) 
+![ShopNova Dashboard Overview](ShopNova_Overview.png) 
+
+The dashboard includes:
 
 - **Key Performance Indicators (KPIs):** Total Revenue, Total Orders, and Total Profit.
 - **Monthly Revenue Trend:** Tracks revenue performance over time.
