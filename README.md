@@ -53,7 +53,7 @@ Potential applications include revenue monitoring, category performance analysis
 
 ## Project Files
 
-- **Power BI Dashboard:** `ShopNova_Retail_Analytics.pbix`
+- **Power BI Dashboard:**   To be added.
 - **Dashboard Screenshot:** To be added.
 
 ## Author
