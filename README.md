@@ -30,6 +30,30 @@ The dashboard includes:
 - **Sales by Category:** Shows how sales are distributed across product categories.
 - **Interactive Filters:** Enables exploration by year, region, and customer segment.
 
+## Key Business Insights
+
+Analysis of the ShopNova e-commerce dataset revealed the following findings:
+
+1. **Revenue Performance:** The business recorded ₦834.48 million in revenue from 1,712 completed orders out of 2,000 total orders.
+
+2. **Category Performance:** Electronics was the leading category, generating ₦643.34 million in completed-order revenue, making it the largest contributor to sales.
+
+3. **Geographical Performance:** Lagos recorded the highest completed-order revenue at ₦128.76 million, followed by Warri and Owerri.
+
+4. **Product Performance:** The MacBook Air M2 was the highest-revenue product, generating ₦115.9 million in sales.
+
+5. **Order Fulfilment:** 85.6% of all recorded orders were completed, while 85 orders were cancelled.
+
+6. **Profitability:** Estimated gross profit from completed orders was ₦201.37 million, calculated using selling prices and product costs.
+
+## Business Recommendations
+
+- **Strengthen Electronics Sales:** Maintain stock availability for high-performing electronics and explore opportunities to increase sales in other categories.
+- **Improve Regional Marketing:** Use Lagos as a benchmark for successful sales strategies while developing targeted campaigns for other cities.
+- **Promote Top-performing Products:** Prioritise popular products such as the MacBook Air M2 through targeted promotions and inventory planning.
+- **Reduce Order Cancellations:** Investigate the reasons behind cancelled orders and improve the ordering and fulfilment process.
+- **Monitor Profitability:** Track gross profit alongside revenue to ensure that sales growth translates into stronger business performance.
+
 ## Dashboard Preview
 
 The dashboard provides a consolidated view of retail performance through interactive visualizations and KPI cards.
