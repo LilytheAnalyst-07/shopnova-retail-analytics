@@ -74,11 +74,6 @@ The dashboard gives decision-makers a practical way to monitor performance, expl
 
 Potential applications include revenue monitoring, category performance analysis, regional comparisons, and customer segment analysis.
 
-## Project Files
-
-- **Power BI Dashboard:**   To be added.
-- **Dashboard Screenshot:** To be added.
-
 ## Author
 
 **Lilian Ochagwuba**
