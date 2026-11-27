@@ -42,6 +42,9 @@ Analysis of the ShopNova e-commerce dataset revealed the following findings:
 4. **Product Performance:** The MacBook Air M2 was the highest-revenue product, generating **$115.9 million** in sales.
 5. **Order Fulfilment:** 85.6% of all recorded orders were completed, while 85 orders were cancelled.
 6. **Profitability:** Estimated gross profit from completed orders was **$201.37 million**, calculated using selling prices and product costs.
+   
+### Order Status Clarification
+The analysis covers 2,000 total orders received across the reporting period. Of these, 1,712 were completed and 85 were cancelled. The remaining 203 orders fall under other order statuses and are included in the overall order count. Therefore, completed and cancelled orders do not represent the entire order distribution.
 
 ## Business Recommendations
 
